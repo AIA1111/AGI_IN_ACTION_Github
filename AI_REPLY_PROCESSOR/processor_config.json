@@ -1,0 +1,8 @@
+{
+  "reasoning_mode": false,
+  "end_tags": [
+    "</think>",
+    "</thinking>",
+    "</analysis>"
+  ]
+}
